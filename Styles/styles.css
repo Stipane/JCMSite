@@ -1,0 +1,80 @@
+body {
+    background-color: azure;
+
+}
+
+.carousel-inner {
+    width: 300px;
+    height: 400px;
+
+}
+
+.container {
+    display: flex;
+    margin-bottom: 25px;
+    justify-content: center;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-weight: 600;
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    max-width: 85%;
+    margin: auto;
+
+}
+
+
+img {
+    border: 5px solid #191cd2;
+    border-radius: 10%;
+
+}
+
+a {
+    margin: auto;
+    margin-top: 50px;
+}
+
+table {
+    font-size: 2rem;
+}
+
+table,
+th,
+td {
+    margin-top: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+th {
+    background-color: #24a1ea;
+    font-weight: 800;
+}
+
+colgroup {
+    width: 350px;
+}
+
+.side {
+    text-align: center;
+    color: #7eccf3;
+    font-weight: 800;
+}
+
+.tdc {
+    text-align: center;
+}
