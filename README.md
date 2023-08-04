@@ -1,2 +1,2 @@
 # JCMSite
-This site is an Unofficial john mellencamp discography
+This site is an Unofficial John Mellencamp discography
